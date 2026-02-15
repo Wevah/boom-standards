@@ -20,4 +20,4 @@
 | comp_respawn          |           1 |        1 |       1 |          0 |
 | comp_voodooscroller   |           0 |        0 |       1 |          0 |
 
-[^3]: Options introduced in MBF21 are **not modifiable** in Vanilla, Boom and MBF.
+[^1]: Options introduced in MBF21 are **not modifiable** in Vanilla, Boom and MBF.
